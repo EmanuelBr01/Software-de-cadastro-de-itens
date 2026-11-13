@@ -1,0 +1,16 @@
+[
+  {
+    "data_hora": "2026-11-13T19:37:40-03:00",
+    "codigo": "01",
+    "nome": "Mouse",
+    "operacao": "Entrada",
+    "quantidade": 2
+  },
+  {
+    "data_hora": "2026-11-13T19:37:53-03:00",
+    "codigo": "02",
+    "nome": "Monitor",
+    "operacao": "Entrada",
+    "quantidade": 5
+  }
+]
